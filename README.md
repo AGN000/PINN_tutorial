@@ -185,21 +185,6 @@ Uses a PINN to *identify* the Young's modulus E of a beam from sparse displaceme
 
 ---
 
-## Citation
-
-If you use this material in your work or teaching, please cite the associated YouTube series:
-
-```
-@misc{pinn_tutorial_youtube,
-  author  = {Arun Govind Neelan},
-  title   = {Introduction to PINNs},
-  year    = {2024},
-  url     = {https://www.youtube.com/playlist?list=PLeAxGrK8ucC6jOacrHLZgh0vJHoQS8xxv}
-}
-```
-
----
-
 ## License
 
 This repository is provided for educational purposes. Feel free to use and adapt the code with attribution.
